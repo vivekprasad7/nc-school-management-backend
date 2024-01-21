@@ -1,0 +1,93 @@
+[
+    {
+      "name": "John Doe",
+      "age": 15,
+      "grade": "A",
+      "gender": "Male",
+      "attendance": 90,
+      "marks": 85,
+      "class": "First"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 14,
+      "grade": "B",
+      "gender": "Female",
+      "attendance": 92,
+      "marks": 78,
+      "class": "Second"
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 16,
+      "grade": "C",
+      "gender": "Male",
+      "attendance": 88,
+      "marks": 65,
+      "class": "Third"
+    },
+    {
+      "name": "Alice Brown",
+      "age": 15,
+      "grade": "A",
+      "gender": "Female",
+      "attendance": 95,
+      "marks": 92,
+      "class": "Fourth"
+    },
+    {
+      "name": "Mike Davis",
+      "age": 14,
+      "grade": "B",
+      "gender": "Male",
+      "attendance": 89,
+      "marks": 80,
+      "class": "Fifth"
+    },
+    {
+      "name": "Sara Wilson",
+      "age": 15,
+      "grade": "D",
+      "gender": "Female",
+      "attendance": 85,
+      "marks": 45,
+      "class": "First"
+    },
+    {
+      "name": "Tom Anderson",
+      "age": 16,
+      "grade": "C",
+      "gender": "Male",
+      "attendance": 91,
+      "marks": 73,
+      "class": "Second"
+    },
+    {
+      "name": "Emily White",
+      "age": 14,
+      "grade": "E",
+      "gender": "Female",
+      "attendance": 86,
+      "marks": 60,
+      "class": "Third"
+    },
+    {
+      "name": "Chris Miller",
+      "age": 15,
+      "grade": "A",
+      "gender": "Male",
+      "attendance": 94,
+      "marks": 88,
+      "class": "Fourth"
+    },
+    {
+      "name": "Olivia Taylor",
+      "age": 16,
+      "grade": "B",
+      "gender": "Female",
+      "attendance": 87,
+      "marks": 77,
+      "class": "Fifth"
+    }
+  ]
+  

@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Rajesh Kumar",
+      "subject": "Mathematics",
+      "gender": "Male"
+    },
+    {
+      "name": "Smita Gupta",
+      "subject": "Science",
+      "gender": "Female"
+    },
+    {
+      "name": "Amit Singh",
+      "subject": "History",
+      "gender": "Male"
+    },
+    {
+      "name": "Priya Sharma",
+      "subject": "English",
+      "gender": "Female"
+    },
+    {
+      "name": "Vikram Patel",
+      "subject": "Physics",
+      "gender": "Male"
+    },
+    {
+      "name": "Meera Khanna",
+      "subject": "Chemistry",
+      "gender": "Female"
+    },
+    {
+      "name": "Arjun Mehta",
+      "subject": "Geography",
+      "gender": "Male"
+    },
+    {
+      "name": "Anita Verma",
+      "subject": "Economics",
+      "gender": "Female"
+    },
+    {
+      "name": "Rahul Tiwari",
+      "subject": "Computer Science",
+      "gender": "Male"
+    },
+    {
+      "name": "Neha Kapoor",
+      "subject": "Biology",
+      "gender": "Female"
+    }
+  ]
+  
